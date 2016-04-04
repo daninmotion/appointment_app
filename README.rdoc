@@ -1,28 +1,17 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*Ruby on Rails
 
-Things you may want to cover:
+*PostgreSQL as my Database
 
-* Ruby version
+*Puma as my Webserver
 
-* System dependencies
+*Validates_Overlap Gem, to prevent same day appointments from overlaping with eachother
 
-* Configuration
+*Validates_Timeliness, to prevent the creation of appointments on past dates
 
-* Database creation
+*Deployed to Heroku
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Bootstrap for some frontend work on the table
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
